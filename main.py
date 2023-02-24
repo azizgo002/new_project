@@ -6,3 +6,5 @@ def getFirstNum(lst):
 
 def sum(a,b,c):
     return a+b+c
+
+# commit
